@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/101191449/198585174-42c7aa0a-77bc-426d-9112-de948cdeb979.png)
 
-Bu rehberde [LINK]https://github.com/CryptoniteNodes/Testnet-Mande referans olarak kullanılmıştır.
+Bu rehberde https://github.com/CryptoniteNodes/Testnet-Mande referans olarak kullanılmıştır.
 
 ## Sistem gereksinimleri
 ```
