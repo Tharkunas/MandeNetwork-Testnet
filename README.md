@@ -169,7 +169,7 @@ systemctl restart mande-chaind && journalctl -u mande-chaind -f -o cat
 curl -d '{"address":"Walletadress"}' -H 'Content-Type: application/json' http://35.224.207.121:8080/request
 ```
 
-Eğer Faucet Çalışmazsa önce terminalin size verdiği seed bilgisi ile cüzdanınızı import ettikten sonra http://35.224.207.121/ adresine giderek import ettiğiniz cüzdanı platforma bağlayın ve token talebinde bulunun
+Eğer Faucet Çalışmazsa önce terminalin size verdiği seed bilgisi ile Keplr Wallet'tan cüzdanınızı import ettikten sonra http://35.224.207.121/ adresine giderek import ettiğiniz cüzdanı platforma bağlayın ve token talebinde bulunun
 
 
 ## Sync olduktan sonra son adım olarak validator oluşturuyoruz.
