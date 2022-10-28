@@ -51,7 +51,7 @@ go version
 ```
 
 
-## ## Mande Network'un github dosyasını Mande Network repo'sundan sunucumuza çekiyoruz.
+## Mande Network'un github dosyasını Mande Network repo'sundan sunucumuza çekiyoruz.
 ```
 cd $HOME
 curl -OL https://github.com/mande-labs/testnet-1/raw/main/mande-chaind
