@@ -12,7 +12,7 @@ Bu rehberde https://github.com/CryptoniteNodes/Testnet-Mande referans olarak kul
 ```
 # Linkler
 > ## [Discord](https://discord.com/invite/9Ugch3fRC2)<br>
-> ## [Source protocol website](https://www.mande.network/)
+> ## [Mande website](https://www.mande.network/)
 
 # Node Kurulumu Rehberi
 
